@@ -1,3 +1,3 @@
-#React + Vite
+# React + Vite
 
-tictaco
+TicTacToe
